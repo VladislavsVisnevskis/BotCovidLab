@@ -9,6 +9,7 @@
 target/**
 **/**.iml
 botcovidlabAdminAccess.json
+botcovidlabAdminAccess
 
 # Twitter bot
 **/twitter/settings.json
